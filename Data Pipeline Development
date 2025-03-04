@@ -1,0 +1,4 @@
+Title - Data Pipeline Development.
+Project - Titanic Survival Prediction
+Instructions : Create a pipeline for data preprocessing, transformation, and loading using tools like Pandas and Scikit-learn.
+Deleiverables : Python script or notebook automating the ETL process.
